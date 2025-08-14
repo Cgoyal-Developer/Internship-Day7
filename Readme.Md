@@ -13,7 +13,6 @@ Install **Netdata** using Docker and visualize **system & application performanc
 
 ## 🚀 Step-by-Step Setup
 
-### 1️⃣ Pull Netdata Docker Image
 ```bash
 # Pull Netdata image
 docker pull netdata/netdata
@@ -41,5 +40,3 @@ http://<EC2-PUBLIC-IP>:19999  # AWS
 # View logs
 docker exec -it netdata ls /var/log/netdata
 docker exec -it netdata cat /var/log/netdata/error.log
-
-```bash
