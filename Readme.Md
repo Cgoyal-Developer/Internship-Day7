@@ -43,9 +43,9 @@ docker exec -it netdata cat /var/log/netdata/error.log
 ```
 
 # Screenshots
-![Netdata Dashboard](https://github.com/Cgoyal-Developer/Internship-Day7/blob/main/screenshots/netdata-dashboard.png?raw=true)
-![Metrics Dashboard](https://github.com/Cgoyal-Developer/Internship-Day7/blob/main/screenshots/metrics-dashboard.png?raw=true)
-![Logs Screenshot](https://github.com/Cgoyal-Developer/Internship-Day7/blob/main/screenshots/logs-output.png?raw=true)
+![Netdata Dashboard](https://github.com/Cgoyal-Developer/Internship-Day7/blob/main/netdata-dashboard.png?raw=true)
+![Metrics Dashboard](https://github.com/Cgoyal-Developer/Internship-Day7/blob/main/metrics-dashboard.png?raw=true)
+![Logs Screenshot](https://github.com/Cgoyal-Developer/Internship-Day7/blob/main/logs-output.png?raw=true)
 
 
 
